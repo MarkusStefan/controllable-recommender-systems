@@ -1,4 +1,4 @@
-# controllable-recommender-systems
+# User-Controllable Recommendation Against Filter Bubbles (reproduced work)
 
 A reproduced version of the original paper [User-controllable Recommendation Against Filter Bubbles](https://dl.acm.org/doi/10.1145/3477495.3532075#sec-supp) will be implemented with the following dependencies:
 
